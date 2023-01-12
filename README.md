@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hello, My name is Faisal<br>⚡ I'm C#, Python, Golang, Html and CSS Programmer
+🔭 Hello, My name is Faisal<br>⚡ I'm C#, Python, Golang, Html and CSS Programmer 🐍
 
 
 ## 🌐 Socials:
